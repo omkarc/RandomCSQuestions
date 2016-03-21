@@ -49,4 +49,5 @@ public class TestSelectionSort {
         // Verify random element in the array is what you expect
         assertEquals(5, actualSortedData[4]);
     }
+
 }
